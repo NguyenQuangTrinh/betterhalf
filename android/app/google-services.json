@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "491513753482",
+    "firebase_url": "https://hangnobita-52b73-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hangnobita-52b73",
+    "storage_bucket": "hangnobita-52b73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491513753482:android:298928496ca95db8d0e273",
+        "android_client_info": {
+          "package_name": "com.example.betterhalf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491513753482-dkq83nchfjjpdmpkepuev0jaf2qtk44s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrUb2pJlutJebZFaXwK5aMjxlT0jrnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491513753482-dkq83nchfjjpdmpkepuev0jaf2qtk44s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491513753482-rq1o8jlnj3h2ch2cq0elejqtvh69s4rf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.forYou"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491513753482:android:80179602894a2fa8d0e273",
+        "android_client_info": {
+          "package_name": "com.example.for_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491513753482-dkq83nchfjjpdmpkepuev0jaf2qtk44s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrUb2pJlutJebZFaXwK5aMjxlT0jrnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491513753482-dkq83nchfjjpdmpkepuev0jaf2qtk44s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491513753482-rq1o8jlnj3h2ch2cq0elejqtvh69s4rf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.forYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
